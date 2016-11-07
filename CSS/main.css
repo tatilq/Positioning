@@ -1,0 +1,28 @@
+body{
+	
+	font-family: 'Pacifico', cursive;
+	background:  #040E12 url(https://thumbs.dreamstime.com/z/vintage-floral-background-frame-decorative-bird-45782907.jpg)
+	no-repeat fixed center center;
+	-webkit-background-size: cover; 
+	background-size: cover;
+	font-size: 20px;
+	text-align: center;
+}
+div{
+	margin-left:40%;
+	margin-top: 10%;
+	margin-right: 40%;
+}
+a{
+	display: block;
+	color:#731C72;
+	display: block;
+	text-decoration: none;
+}
+
+a:hover
+{
+	
+	color: #1DC8CB;
+
+}

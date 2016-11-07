@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+	padding:0;
+}
+.box1
+{
+	background-color: #ee3e64;
+	width: 200px;
+	height: 200px;
+	position: static;
+}
+.box2
+{
+	background-color: #44accf;
+	width: 200px;
+	height: 200px;
+	position: static;
+
+}
+.box3
+{
+	background-color: #b7d84b;
+	width: 200px;
+	height: 200px;
+	position: static;
+
+}
+
+.clear{
+
+	
+	padding: 2% 0 5% 50%;
+
+	display: block;
+	clear: both;
+}
